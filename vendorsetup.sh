@@ -1,2 +1,3 @@
 add_lunch_combo aokp_tass-userdebug
 add_lunch_combo aokp_gio-userdebug
+add_lunch_combo aokp_cooper-userdebug
